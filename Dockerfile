@@ -6,6 +6,7 @@ WORKDIR ${APP_HOME}
 COPY . ./
 
 RUN pip install pip pipenv --upgrade
+RUN pip install numpy pandas scipy sympy matplotlib
 RUN pipenv install --skip-lock --system --dev
 
 CMD ["./scripts/entrypoint.sh"]
