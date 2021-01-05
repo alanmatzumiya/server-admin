@@ -18,8 +18,8 @@ SECRET_KEY = 'development key'
 DEBUG = True
 
 # Set these values
-GITHUB_CLIENT_ID = 'XXX'
-GITHUB_CLIENT_SECRET = 'YYY'
+GITHUB_CLIENT_ID = 'alanmatzumiya'
+GITHUB_CLIENT_SECRET = 'circuital'
 
 # setup flask
 app = Flask(__name__)
