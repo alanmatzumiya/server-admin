@@ -7,7 +7,7 @@ c = get_config()
 c.IPKernelApp.pylab = 'inline'  # if you want plotting support always in your notebook
 
 # Notebook config
-c.NotebookApp.notebook_dir = 'https://github.com/alanmatzumiya/data_analysis/tree/main/nbs/module_1'
+c.NotebookApp.notebook_dir = u'https://raw.githubusercontent.com/alanmatzumiya/data_analysis/main/nbs/module_1/02.01-Campus-SIR-modeling.ipynb'
 c.NotebookApp.allow_origin = u'192.168.1.91' # put your public IP Address here
 c.NotebookApp.ip = '*'
 c.NotebookApp.allow_remote_access = True
