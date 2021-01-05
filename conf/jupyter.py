@@ -7,14 +7,14 @@ c = get_config()
 c.IPKernelApp.pylab = 'inline'  # if you want plotting support always in your notebook
 
 # Notebook config
-c.NotebookApp.notebook_dir = 'nbs'
-c.NotebookApp.allow_origin = u'192.168.1.78' # put your public IP Address here
+c.NotebookApp.notebook_dir = 'https://github.com/alanmatzumiya/data_analysis/tree/main/nbs/module_1'
+c.NotebookApp.allow_origin = u'192.168.1.91' # put your public IP Address here
 c.NotebookApp.ip = '*'
 c.NotebookApp.allow_remote_access = True
 c.NotebookApp.open_browser = False
 
 # ipython -c "from notebook.auth import passwd; passwd()"
-c.NotebookApp.password = u'sha1:0872cff88386:380433d3ec1188d722fba41af0ae19777a56ff9b'
+c.NotebookApp.password = u'argon2:$argon2id$v=19$m=10240,t=10,p=8$r1E2xZUkteS3dDP/A/h8XQ$rXAbWf788IKx56L+4BONzw'
 c.NotebookApp.port = int(os.environ.get("PORT", 80))
 c.NotebookApp.allow_root = True
 c.NotebookApp.allow_password_change = True
