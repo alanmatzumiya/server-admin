@@ -1,0 +1,37 @@
+circuitalminds:
+  FractalMetric: "https://github.com/CircuitalMinds/FractalMetric.git"
+  blog: "https://github.com/CircuitalMinds/blog.git"
+  circuitalminds.github.io: "https://github.com/CircuitalMinds/circuitalminds.github.io.git"
+  pyfullstack: "https://github.com/alanmatzumiya/pyfullstack.git"
+
+alanmatzumiya:
+  Paper: "https://github.com/alanmatzumiya/Paper.git"
+  alanmatzumiya.github.io: "https://github.com/alanmatzumiya/alanmatzumiya.github.io.git"
+  app-COVID19: "https://github.com/alanmatzumiya/app-COVID19.git"
+  cv-latex: "https://github.com/alanmatzumiya/cv-latex.git"
+  fractals: "https://github.com/alanmatzumiya/fractals.git"
+  matsuhub: "https://github.com/alanmatzumiya/matsuhub.git"
+  pySpectralPDE: "https://github.com/alanmatzumiya/pySpectralPDE.git"
+  server-admin: "https://github.com/alanmatzumiya/server-admin.git"
+  
+containers:
+  yt_playlist: "https://github.com/alanmatzumiya/yt_playlist.git"
+  container_1: "https://github.com/alanmatzumiya/container_1.git"
+  container_2: "https://github.com/alanmatzumiya/container_2.git"
+  container_3: "https://github.com/alanmatzumiya/container_3.git"
+  container_4: "https://github.com/alanmatzumiya/container_4.git"
+  container_5: "https://github.com/alanmatzumiya/container_5.git"
+  container_6: "https://github.com/alanmatzumiya/container_6.git"
+  container_7: "https://github.com/alanmatzumiya/container_7.git"
+  container_8: "https://github.com/alanmatzumiya/container_8.git"
+  container_9: "https://github.com/alanmatzumiya/container_9.git"
+  container_10: "https://github.com/alanmatzumiya/container_10.git"
+  img_container_1: "https://github.com/alanmatzumiya/img_container_1.git"
+  img_container_2: "https://github.com/alanmatzumiya/img_container_2.git"
+  img_container_3: "https://github.com/alanmatzumiya/img_container_3.git"
+  img_container_4: "https://github.com/alanmatzumiya/img_container_4.git"
+  img_container_5: "https://github.com/alanmatzumiya/img_container_5.git"
+  img_container_6: "https://github.com/alanmatzumiya/img_container_6.git"
+notebooks:
+  data_analysis: "https://github.com/alanmatzumiya/engineering-basic.git"
+  engineering-basic: "https://github.com/alanmatzumiya/data_analysis.git"
