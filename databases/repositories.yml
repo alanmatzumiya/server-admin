@@ -1,8 +1,10 @@
-circuitalminds:
+CircuitalMinds:
   FractalMetric: "https://github.com/CircuitalMinds/FractalMetric.git"
   blog: "https://github.com/CircuitalMinds/blog.git"
   circuitalminds.github.io: "https://github.com/CircuitalMinds/circuitalminds.github.io.git"
-  pyfullstack: "https://github.com/alanmatzumiya/pyfullstack.git"
+  pyfullstack: "https://github.com/CircuitalMinds/pyfullstack.git"
+  manager: "https://github.com/CircuitalMinds/manager.git"
+  jupyter: "https://github.com/CircuitalMinds/jupyter.git"
 
 alanmatzumiya:
   Paper: "https://github.com/alanmatzumiya/Paper.git"
@@ -15,7 +17,10 @@ alanmatzumiya:
   server-admin: "https://github.com/alanmatzumiya/server-admin.git"
   
 containers:
-  yt_playlist: "https://github.com/alanmatzumiya/yt_playlist.git"
+  yt_playlist_1: "https://github.com/alanmatzumiya/yt_playlist_1.git"
+  yt_playlist_2: "https://github.com/alanmatzumiya/yt_playlist_2.git"
+  yt_playlist_3: "https://github.com/alanmatzumiya/yt_playlist_3.git"
+  yt_playlist_4: "https://github.com/alanmatzumiya/yt_playlist_4.git"
   container_1: "https://github.com/alanmatzumiya/container_1.git"
   container_2: "https://github.com/alanmatzumiya/container_2.git"
   container_3: "https://github.com/alanmatzumiya/container_3.git"
@@ -33,5 +38,7 @@ containers:
   img_container_5: "https://github.com/alanmatzumiya/img_container_5.git"
   img_container_6: "https://github.com/alanmatzumiya/img_container_6.git"
 notebooks:
-  data_analysis: "https://github.com/alanmatzumiya/engineering-basic.git"
-  engineering-basic: "https://github.com/alanmatzumiya/data_analysis.git"
+  engineering-basic: "https://github.com/alanmatzumiya/engineering-basic.git"
+  data_analysis: "https://github.com/alanmatzumiya/data_analysis.git"
+  datasets_1: "https://github.com/alanmatzumiya/datasets_1.git"
+  datasets_2: "https://github.com/alanmatzumiya/datasets_2.git"
