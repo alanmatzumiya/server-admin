@@ -1,0 +1,5 @@
+#!/bin/bash
+# start a virtual environment and call a python module
+# usage: ./environment/bin/activate
+source ./environment/bin/activate && pip install -r requirements.txt && python3 local_server.py
+
